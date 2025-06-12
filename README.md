@@ -59,6 +59,21 @@
 > 🧠 More projects coming soon — including AI-based tools and LangChain chatbots!
 
 ---
+---
+
+### 💼 Experience
+
+- 👨‍💻 **Technical Team Member**  
+  🏢 *Udyam (E-Cell), GGITS*  
+  📍 Jabalpur, Madhya Pradesh, India  
+  📅 *Sep 2024 – Present*  
+  > Contributing to technical development for entrepreneurial events, managing tech initiatives, and supporting college-level startup activities as part of the IIT Bombay-connected E-Cell.
+
+- 🚀 **Internshala Student Partner (ISP)**  
+  🏢 *Internshala (Internship)*  
+  📍 India  
+  📅 *Jun 2024 – Aug 2024*  
+  > Promoted Internshala’s brand and opportunities within the student community. Gained experience in marketing, communication, and leadership during the 3-month internship.
 
 ### 📈 GitHub Stats
 
