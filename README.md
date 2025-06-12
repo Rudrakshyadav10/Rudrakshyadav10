@@ -85,6 +85,23 @@
 
 ---
 
+### 💡 Fun Facts
+
+- 🎬 I love editing videos and trying out creative transitions  
+- 🤖 I often experiment with AI tools just for fun and curiosity  
+- 💪 I'm working on my physique and flexibility while balancing tech life  
+- 💭 One of my goals: build something impactful using LLMs or GenAI
+
+---
+
+### 🤝 Let's Collaborate!
+
+- 💼 Looking for internship or real-world projects in AI & development  
+- 🧠 Down to brainstorm, build, or contribute to open-source  
+- 🤝 Whether it's tech, productivity, or self-improvement—let’s connect and grow together!
+
+---
+
 ### 📫 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
@@ -95,4 +112,5 @@
 > "_Consistency beats talent when talent doesn’t work hard._"
 
 <p align="center">✨ Thanks for visiting my profile!</p>
+
 
