@@ -88,8 +88,7 @@
 ### 💡 Fun Facts
 
 - 🎬 I love editing videos and trying out creative transitions  
-- 🤖 I often experiment with AI tools just for fun and curiosity  
-- 💪 I'm working on my physique and flexibility while balancing tech life  
+- 🤖 I often experiment with AI tools just for fun and curiosity   
 - 💭 One of my goals: build something impactful using LLMs or GenAI
 
 ---
@@ -103,8 +102,8 @@
 ---
 
 ### 📫 Connect with Me
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrakshyadav10@gmail.com)
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 
 ---
