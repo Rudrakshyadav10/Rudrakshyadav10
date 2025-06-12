@@ -59,21 +59,22 @@
 > 🧠 More projects coming soon — including AI-based tools and LangChain chatbots!
 
 ---
----
 
 ### 💼 Experience
 
 - 👨‍💻 **Technical Team Member**  
   🏢 *Udyam (E-Cell), GGITS*  
   📍 Jabalpur, Madhya Pradesh, India  
-  📅 *Sep 2024 – Present*  
-  > Contributing to technical development for entrepreneurial events, managing tech initiatives, and supporting college-level startup activities as part of the IIT Bombay-connected E-Cell.
+  📆 *Sep 2024 – Present*  
+  > Collaborating with the tech team to support entrepreneurship and tech development initiatives in college.
 
 - 🚀 **Internshala Student Partner (ISP)**  
-  🏢 *Internshala (Internship)*  
+  🏢 *Internshala*  
   📍 India  
-  📅 *Jun 2024 – Aug 2024*  
-  > Promoted Internshala’s brand and opportunities within the student community. Gained experience in marketing, communication, and leadership during the 3-month internship.
+  📆 *Jun 2024 – Aug 2024*  
+  > Promoted internship and learning opportunities, organized events, and acted as the campus ambassador.
+
+---
 
 ### 📈 GitHub Stats
 
@@ -86,7 +87,7 @@
 
 ### 📫 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 
 ---
@@ -94,3 +95,4 @@
 > "_Consistency beats talent when talent doesn’t work hard._"
 
 <p align="center">✨ Thanks for visiting my profile!</p>
+
