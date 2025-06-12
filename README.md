@@ -40,6 +40,26 @@
 
 ---
 
+### 🚀 Projects
+
+> 🧪 Some beginner Python projects I've built as part of my coding journey:
+
+- 🧮 **Calculator**  
+  Basic CLI-based calculator for arithmetic operations.
+
+- 📇 **Contact Book App**  
+  Simple contact manager using Python and file handling to add/update/view contacts.
+
+- 🔐 **Password Generator**  
+  Python-based tool to generate strong and customizable passwords.
+
+- ✅ **To-Do List**  
+  Terminal-based task manager to add, complete, and delete daily tasks.
+
+> 🧠 More projects coming soon — including AI-based tools and LangChain chatbots!
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -51,12 +71,11 @@
 
 ### 📫 Connect with Me
 
-<!-- Add your links below -->
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 
 ---
 
-> "_Consistency beats talent when talent doesn’t work hard._" – Add your favorite quote here
+> "_Consistency beats talent when talent doesn’t work hard._"
 
-<p align="center">✨Thanks for visiting my profile!</p>
+<p align="center">✨ Thanks for visiting my profile!</p>
