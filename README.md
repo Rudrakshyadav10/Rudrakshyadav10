@@ -1,175 +1,116 @@
-# 👋 Hey, I'm Rudraksh Yadav
 
-**Full-Stack Developer** | **AI/ML Enthusiast** | **Problem Solver** | **Tech Innovator**
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Rudraksh Yadav</h1>
+<h3 align="center">🧠 AIML Student | 🔍 Exploring AI Tools & Prompt Engineering | 💻 Python & C++ Enthusiast</h3>
 
----
-
-## 🎯 About Me
-
-I'm a Computer Science student at GGIT Jabalpur specializing in Artificial Intelligence and Machine Learning. I'm passionate about building scalable applications, exploring AI-driven solutions, and turning complex problems into elegant code. With hands-on experience in full-stack development, Python automation, and cloud technologies, I love creating products that make an impact.
-
-Currently at **Udyam E-Cell** as a Technical Team Member, where I develop responsive web applications serving 500+ active users. I'm driven by curiosity, collaboration, and the endless possibilities of technology.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=AI+%7C+Prompt+Engineering+%7C+Python+%7C+C++;Learning+New+Tech+Everyday;Let's+Build+Cool+Things+Together!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 📌 About Me
 
-**Languages:**
-- Python, C++, JavaScript, HTML5, CSS3, SQL
-
-**Frontend:**
-- HTML5, CSS3, JavaScript, Bootstrap
-
-**Backend & Frameworks:**
-- Flask, REST APIs, Node.js
-
-**Data Science & AI:**
-- Pandas, NumPy, Scikit-learn, Machine Learning
-
-**Cloud & Automation:**
-- Microsoft AI Builder, Power Apps, Power Automate, APIs
-
-**Tools & Platforms:**
-- Git & GitHub, VS Code, Microsoft Cloud, Firebase
-
-**Databases:**
-- SQLite, SQL
+- 🎓 I'm an AIML undergraduate passionate about AI innovations and modern tech  
+- 🤖 Currently diving deep into **Prompt Engineering** and **AI Tools**  
+- 💬 Ask me about **Python, C++, Prompt Engineering, Generative AI tools**
+- 🧠 I believe in **learning by building**, exploring tech hands-on  
+- 🌱 Always open to learning new tools, working on cool projects, and growing as a developer
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 📱 Full-Stack E-Cell Platform Web Application
-*Technologies: HTML5, CSS3, JavaScript, Flask, REST APIs, Git*
+#### 👨‍💻 Languages & Frameworks:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-A responsive web application designed for the E-Cell community with integrated REST APIs for user authentication and management. Implemented server-side logic using Flask with optimized routing and request handling. Enhanced performance through strategic caching mechanisms.
-
-**Key Features:**
-- User authentication & authorization
-- Responsive design (mobile-first approach)
-- REST API integration
-- Strategic caching for performance optimization
-- Git version control & deployment
-
-**[View Project](#)** | **[GitHub Repository](#)**
+#### 🤖 AI & Tools:
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8E44AD?style=for-the-badge)
+![AI Tools](https://img.shields.io/badge/-AI%20Tools-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-### 🤖 Cloud Lead Generation & Automation System
-*Technologies: Microsoft AI Builder, Power Apps, Power Automate, Cloud APIs*
+### 🔭 Currently Working On
 
-Architected a cloud-based automation solution for real-time lead tracking and management using Microsoft Cloud infrastructure. Integrated AI-driven intelligent data processing with workflow automation.
-
-**Key Features:**
-- Real-time lead tracking & management
-- AI-powered data processing
-- Automated workflow orchestration
-- Multi-platform API integrations
-- 99% uptime on Microsoft Cloud
-- Dynamic data synchronization across platforms
-
-**[View Project](#)** | **[GitHub Repository](#)**
+- 🛠 Building AI-powered tools and exploring LLM applications  
+- 💡 Improving my Prompt Engineering skills for real-world use  
+- 📚 Creating mini-projects with Python and experimenting with generative AI platforms
 
 ---
 
-### 🎯 Python CLI Task Manager
-*Technologies: Python, OOP, SQLite, Data Structures & Algorithms*
+### 🚀 Projects
 
-A command-line task management application with persistent database storage. Demonstrates clean architecture through OOP principles and efficient data structure algorithms.
+> 🧪 Some beginner Python projects I've built as part of my coding journey:
 
-**Key Features:**
-- Persistent SQLite database storage
-- Modular, maintainable code architecture
-- Sorting & searching algorithms
-- Comprehensive error handling & logging
-- Intuitive CLI interface
+- 🧮 **Calculator**  
+  Basic CLI-based calculator for arithmetic operations.
 
-**[View Project](#)** | **[GitHub Repository](#)**
+- 📇 **Contact Book App**  
+  Simple contact manager using Python and file handling to add/update/view contacts.
 
----
+- 🔐 **Password Generator**  
+  Python-based tool to generate strong and customizable passwords.
 
-## 🏆 Achievements & Recognition
+- ✅ **To-Do List**  
+  Terminal-based task manager to add, complete, and delete daily tasks.
 
-✨ **3rd Place** - Coding Competition (100+ participants) - Advanced DSA algorithmic challenges
-
-🤖 **National AI Hackathon Participant** - AI-driven process automation prototype
-
-🔌 **Scaler Hackathon Participant** - TCP/IP-based communication application with REST APIs
-
-📚 **10+ Technical Projects** - Python & Web Development published on GitHub
-
-🎓 **Certifications:**
-- Python Essentials - Cisco (May 2024)
-- Introduction to Cybersecurity - Cisco (May 2024)
+> 🧠 More projects coming soon — including AI-based tools and LangChain chatbots!
 
 ---
 
-## 💡 What I'm Currently Exploring
+### 💼 Experience
 
-- Advanced Machine Learning & Deep Learning patterns
-- System Design & Scalability architecture
-- Web3 & Blockchain fundamentals
-- LLMs and AI-driven automation
-- Full-stack application optimization
+- 👨‍💻 **Technical Team Member**  
+  🏢 *Udyam (E-Cell), GGITS*  
+  📍 Jabalpur, Madhya Pradesh, India  
+  📆 *Sep 2024 – Present*  
+  > Collaborating with the tech team to support entrepreneurship and tech development initiatives in college.
 
----
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science (AI & ML)**
-*Gyan Ganga Institute of Technology, Jabalpur* | 2023 - 2027
-
-**Relevant Coursework:** Data Structures & Algorithms, OOP, DBMS, Software Engineering, Machine Learning, Computer Networks
+- 🚀 **Internshala Student Partner (ISP)**  
+  🏢 *Internshala*  
+  📍 India  
+  📆 *Jun 2024 – Aug 2024*  
+  > Promoted internship and learning opportunities, organized events, and acted as the campus ambassador.
 
 ---
 
-## 🤝 Let's Connect
+### 📈 GitHub Stats
 
-- **Portfolio:** [Your Portfolio Website](#)
-- **LinkedIn:** [linkedin.com/in/rudraksh-yadav-379628293](https://linkedin.com/in/rudraksh-yadav-379628293)
-- **GitHub:** [github.com/rudrakshyadav](https://github.com/rudrakshyadav)
-- **Email:** [rudrakshyadav10@gmail.com](mailto:rudrakshyadav10@gmail.com)
-- **Location:** Jabalpur, Madhya Pradesh 🇮🇳
-
----
-
-## 📊 GitHub Stats
-
-![Rudraksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrakshyadav&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshyadav&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudraksh-yadav&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraksh-yadav&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 🌟 Core Competencies
+### 💡 Fun Facts
 
-Data Structures & Algorithms | Full-Stack Web Development | Machine Learning | Object-Oriented Design | Cloud Computing | REST APIs | Version Control | Debugging & Problem Solving | Team Collaboration | Technical Communication | Project Management
-
----
-
-## 🎯 Leadership & Mentorship
-
-- **Mentored 15+ peers** in debugging techniques, Git workflows, and deployment strategies
-- **Conducted technical workshops** on Python Programming, Web Development, and Machine Learning
-- **Organized technical events** at E-Cell promoting AI innovation and entrepreneurship
-- **Collaborated with IIT Bombay E-Cell** on TCP/IP-based web solutions
+- 🎬 I love editing videos and trying out creative transitions  
+- 🤖 I often experiment with AI tools just for fun and curiosity  
+- 💭 One of my goals: build something impactful using LLMs or GenAI
 
 ---
 
-## 🎮 Fun Facts
+### 🤝 Let's Collaborate!
 
-- ☕ Coffee-powered developer & problem solver
-- 🧠 Fascinated by AI, Machine Learning, and innovation
-- 🚀 Love building scalable solutions that solve real problems
-- 📚 Always learning, always growing
-- 🌍 Open to exciting opportunities & collaborations
+- 💼 Looking for internship or real-world projects in AI & development  
+- 🧠 Down to brainstorm, build, or contribute to open-source  
+- 🤝 Whether it's tech, productivity, or self-improvement—let’s connect and grow together!
 
 ---
 
-<div align="center">
+### 📫 Connect with Me
 
-**⭐ Love what you see? Star my repositories and let's collaborate!**
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 
-*Last updated: November 2025*
+---
 
-</div>
+> "_Consistency beats talent when talent doesn’t work hard._"
+
+<p align="center">✨ Thanks for visiting my profile!</p>
+
+
