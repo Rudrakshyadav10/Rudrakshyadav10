@@ -423,26 +423,6 @@ Advanced Topics:
 </a>
 </p>
 
-### 🌐 Portfolio & Social Links
-
-<p>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="YOUR_TWITTER_URL">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="YOUR_MEDIUM_URL">
-  <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💭 Quote That Drives Me
 
