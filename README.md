@@ -18,7 +18,6 @@
 <table>
 <tr>
 <td width="60%">
-
 ### Hi there! I'm Rudraksh Yadav 👋
 
 🎓 **B.Tech in Computer Science (AI & ML)**  
