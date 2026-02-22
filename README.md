@@ -6,7 +6,6 @@
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
   <a href="mailto:rudrakshyadav10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/></a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
-  <a href="tel:+917999700601"><img src="https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,7 +16,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ### Hi there! I'm Rudraksh Yadav 👋
 
@@ -44,7 +43,7 @@
 🏗️ System Design & Scalability  
 
 </td>
-<td width="40%">
+<td width="40%" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
