@@ -19,40 +19,65 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="60%">
 
 ### Hi there! I'm Rudraksh Yadav 👋
 
 🎓 **B.Tech in Computer Science (AI & ML)**  
-📍 Gyan Ganga Institute of Technology, Jabalpur  
-🎯 Graduating in 2027  
+🏛️ Gyan Ganga Institute of Technology, Jabalpur  
+📅 Graduating 2027  
 
-🛰️ Former **ML Data Contributor** at NASA Citizen Science Initiative  
-🏆 **3rd Prize Winner** in Competitive Programming Contest  
-🚀 **National AI Hackathon** Participant  
+---
 
-### 💡 What I Do
+### 🚀 What I Do
 
-- 🤖 Build AI/ML models and intelligent systems
-- 💻 Develop full-stack web applications  
-- 🧠 Solve complex algorithmic problems
-- 📊 Work with large-scale datasets
+🤖 Build **AI/ML models** and intelligent systems  
+💻 Develop **full-stack web applications**  
+🧠 Solve **complex algorithmic problems**  
+📊 Work with **large-scale datasets**  
 
-### 🎯 Currently Learning
+---
 
-- Deep Learning & Neural Networks
-- Cloud Computing (AWS/GCP)
-- Advanced Algorithms & System Design
-- MLOps & Model Deployment
+### 🎯 Currently Exploring
 
-### 🌟 Fun Facts
+🔬 Deep Learning & Neural Networks  
+☁️ Cloud Computing (AWS/GCP)  
+⚙️ MLOps & Model Deployment  
+🏗️ System Design & Scalability  
 
-- ⚡ Improved ML model performance by **18%** at NASA
-- 👨‍🏫 Mentored **50+ students** in technical workshops
-- 💻 Love competitive programming and building AI products
-- 🌐 Fluent in **English** and **Hindi**
+</td>
+<td width="40%">
 
-<br clear="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+### 🏆 Highlights
+
+🛰️ **NASA ML Contributor**  
+Earth Data Scientists Initiative
+
+🥉 **3rd Prize Winner**  
+Competitive Programming (100+)
+
+📈 **18% Performance Boost**  
+ML Model Optimization
+
+👨‍🏫 **Mentored 50+ Students**  
+Technical Workshops
+
+🚀 **Hackathon Participant**  
+National AI Event
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**💼 Open for:** ML Engineering • AI Development • Software Engineering • Research Opportunities
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -268,17 +293,17 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" alt="Activity Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Contribution Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -423,6 +448,26 @@ Advanced Topics:
 </a>
 </p>
 
+### 🌐 Portfolio & Social Links
+
+<p>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="YOUR_TWITTER_URL">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="YOUR_MEDIUM_URL">
+  <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💭 Quote That Drives Me
 
