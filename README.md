@@ -17,58 +17,43 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+## 👨‍💻 About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👨‍💻 Rudraksh Yadav | AI/ML Engineer & Software Developer
+### Hi there! I'm Rudraksh Yadav 👋
 
-🎓 **B.Tech in Computer Science (AI & ML)** @ Gyan Ganga Institute of Technology, Jabalpur  
-📅 Graduating 2027 | 🛰️ Former **NASA Citizen Science ML Contributor** | 🏆 Competitive Programming Winner
+🎓 **B.Tech in Computer Science (AI & ML)**  
+📍 Gyan Ganga Institute of Technology, Jabalpur  
+🎯 Graduating in 2027  
 
-</div>
-
----
-
-<table>
-<tr>
-<td width="50%">
+🛰️ Former **ML Data Contributor** at NASA Citizen Science Initiative  
+🏆 **3rd Prize Winner** in Competitive Programming Contest  
+🚀 **National AI Hackathon** Participant  
 
 ### 💡 What I Do
-- 🤖 Build **AI/ML models** and intelligent systems
-- 💻 Develop **full-stack web applications**
-- 🧠 Solve complex **algorithmic problems**
-- 🚀 Create **real-world tech solutions**
 
-### 🎯 Currently Focused On
+- 🤖 Build AI/ML models and intelligent systems
+- 💻 Develop full-stack web applications  
+- 🧠 Solve complex algorithmic problems
+- 📊 Work with large-scale datasets
+
+### 🎯 Currently Learning
+
 - Deep Learning & Neural Networks
-- Natural Language Processing
-- Computer Vision & Image Recognition
-- Cloud Architecture & MLOps
+- Cloud Computing (AWS/GCP)
+- Advanced Algorithms & System Design
+- MLOps & Model Deployment
 
-</td>
-<td width="50%">
+### 🌟 Fun Facts
 
-### 🏆 Achievements
-- 🥉 **3rd Prize** - Competitive Programming (100+ participants)
-- 🛰️ **NASA Contributor** - Earth Data Scientists Initiative
-- 📈 **18% Performance Boost** - ML Model Optimization
-- 👨‍🏫 **Mentored 50+ Students** - Technical Workshops
-- 🚀 **National AI Hackathon** Participant
+- ⚡ Improved ML model performance by **18%** at NASA
+- 👨‍🏫 Mentored **50+ students** in technical workshops
+- 💻 Love competitive programming and building AI products
+- 🌐 Fluent in **English** and **Hindi**
 
-### 🌐 Languages
-**Code:** Python • C++ • JavaScript • SQL  
-**Speak:** English • Hindi
+<br clear="right"/>
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 💼 Open to Opportunities: ML Engineering • AI Development • Software Engineering • Open Source
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
