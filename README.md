@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rudraksh%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=440&height=45&lines=AI+%2F+ML+Engineer;Full-Stack+Developer;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=440&height=45&lines=Software+Engineer;AI+%2F+ML+Enthusiast;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,69 +19,76 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+<table>
+<tr>
+<td width="55%">
 
+### 👨‍💻 Who Am I?
+
+🎓 **B.Tech Student** specializing in **Computer Science (AI & ML)**  
+🏛️ **Gyan Ganga Institute of Technology**, Jabalpur  
+📅 Graduating in **2027** with High Distinction  
+
+🛰️ **Former ML Contributor** at **NASA Citizen Science Initiative**  
+🏆 **3rd Prize Winner** in Competitive Programming (100+ participants)  
+🚀 **National AI Hackathon** Participant  
+
+### 🎯 Current Focus
+
+💡 Building **intelligent AI systems** that solve real-world problems  
+🔬 Exploring **Deep Learning**, **NLP**, and **Computer Vision**  
+🌱 Learning **Advanced ML Algorithms** and **Cloud Architecture**  
+🤝 Contributing to **Open Source ML Projects**  
+
+### 🌟 What Drives Me
+
+> *"Passionate about creating AI that empowers people and makes technology accessible to everyone"*
+
+</td>
+<td width="45%">
+
+```python
 class RudrakshYadav:
-    """
-    A passionate AI/ML Engineer and Full-Stack Developer
-    Building intelligent systems that make a difference
-    """
-    
     def __init__(self):
-        self.username = "Rudraksh Yadav"
-        self.role = "AI/ML Engineer & Developer"
-        self.location = "Jabalpur, Madhya Pradesh, India 🇮🇳"
-        self.education = {
-            "degree": "B.Tech in Computer Science (AI & ML)",
-            "institution": "Gyan Ganga Institute of Technology",
-            "graduation": "2027",
-            "gpa": "High Distinction"
+        self.name = "Rudraksh Yadav"
+        self.role = "AI/ML Engineer"
+        self.location = "Jabalpur, India 🇮🇳"
+        self.education = "B.Tech CS (AI & ML)"
+        self.languages = {
+            "code": ["Python", "C++", 
+                     "JavaScript", "SQL"],
+            "spoken": ["English", "Hindi"]
         }
-        self.code_languages = ["Python", "C++", "JavaScript", "SQL"]
-        self.spoken_languages = ["English", "Hindi"]
-        
-    def current_work(self):
-        return {
-            "focus": ["Deep Learning", "NLP", "Computer Vision"],
-            "learning": ["Advanced ML Algorithms", "Cloud Architecture"],
-            "building": ["AI-Powered SaaS Products", "ML Pipelines"],
-            "collaborating": "Open Source ML Projects"
-        }
+    
+    def current_projects(self):
+        return [
+            "🎯 Smart Resume Analyzer",
+            "🗺️ AI Career Roadmap",
+            "💬 AI Chatbot Assistant"
+        ]
     
     def achievements(self):
         return [
-            "🥉 3rd Prize in Competitive Programming (100+ participants)",
-            "🛰️ NASA Citizen Science ML Contributor",
-            "🚀 National AI Hackathon Participant",
-            "📈 Improved ML model performance by 18%",
-            "👨‍🏫 Led technical workshops & mentored 50+ students"
+            "🛰️ NASA ML Contributor",
+            "🥉 3rd in CP Contest",
+            "📈 18% Model Improvement",
+            "👨‍🏫 Mentored 50+ Students"
         ]
     
-    def fun_facts(self):
-        return [
-            "🔭 Former NASA Citizen Science contributor",
-            "💡 Love solving complex algorithmic problems",
-            "🌱 Always learning something new in AI/ML",
-            "⚡ Can debug code faster than I can tie my shoes",
-            "🎯 Goal: Build AI that empowers people"
-        ]
-
-if __name__ == "__main__":
-    me = RudrakshYadav()
-    print("👋 Welcome to my GitHub! Let's build the future together!")
+    def say_hi(self):
+        print("👋 Let's build the future!")
 ```
 
-<div align="center">
+### 💼 Open For
 
-### 🎓 Education Journey
-**Bachelor of Technology** - Computer Science (AI & ML) | 2023 - 2027  
-*Gyan Ganga Institute of Technology, Jabalpur*
+✅ **ML Engineering Internships**  
+✅ **AI Development Roles**  
+✅ **Full-Stack Opportunities**  
+✅ **Open Source Collaborations**  
 
-**Core Expertise:** Data Structures • Algorithms • OOP • DBMS • Software Engineering • ML
-
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
