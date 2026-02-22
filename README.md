@@ -19,76 +19,56 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
+<div align="center">
+
+### 👨‍💻 Rudraksh Yadav | AI/ML Engineer & Software Developer
+
+🎓 **B.Tech in Computer Science (AI & ML)** @ Gyan Ganga Institute of Technology, Jabalpur  
+📅 Graduating 2027 | 🛰️ Former **NASA Citizen Science ML Contributor** | 🏆 Competitive Programming Winner
+
+</div>
+
+---
+
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
-### 👨‍💻 Who Am I?
+### 💡 What I Do
+- 🤖 Build **AI/ML models** and intelligent systems
+- 💻 Develop **full-stack web applications**
+- 🧠 Solve complex **algorithmic problems**
+- 🚀 Create **real-world tech solutions**
 
-🎓 **B.Tech Student** specializing in **Computer Science (AI & ML)**  
-🏛️ **Gyan Ganga Institute of Technology**, Jabalpur  
-📅 Graduating in **2027** with High Distinction  
-
-🛰️ **Former ML Contributor** at **NASA Citizen Science Initiative**  
-🏆 **3rd Prize Winner** in Competitive Programming (100+ participants)  
-🚀 **National AI Hackathon** Participant  
-
-### 🎯 Current Focus
-
-💡 Building **intelligent AI systems** that solve real-world problems  
-🔬 Exploring **Deep Learning**, **NLP**, and **Computer Vision**  
-🌱 Learning **Advanced ML Algorithms** and **Cloud Architecture**  
-🤝 Contributing to **Open Source ML Projects**  
-
-### 🌟 What Drives Me
-
-> *"Passionate about creating AI that empowers people and makes technology accessible to everyone"*
+### 🎯 Currently Focused On
+- Deep Learning & Neural Networks
+- Natural Language Processing
+- Computer Vision & Image Recognition
+- Cloud Architecture & MLOps
 
 </td>
-<td width="45%">
+<td width="50%">
 
-```python
-class RudrakshYadav:
-    def __init__(self):
-        self.name = "Rudraksh Yadav"
-        self.role = "AI/ML Engineer"
-        self.location = "Jabalpur, India 🇮🇳"
-        self.education = "B.Tech CS (AI & ML)"
-        self.languages = {
-            "code": ["Python", "C++", 
-                     "JavaScript", "SQL"],
-            "spoken": ["English", "Hindi"]
-        }
-    
-    def current_projects(self):
-        return [
-            "🎯 Smart Resume Analyzer",
-            "🗺️ AI Career Roadmap",
-            "💬 AI Chatbot Assistant"
-        ]
-    
-    def achievements(self):
-        return [
-            "🛰️ NASA ML Contributor",
-            "🥉 3rd in CP Contest",
-            "📈 18% Model Improvement",
-            "👨‍🏫 Mentored 50+ Students"
-        ]
-    
-    def say_hi(self):
-        print("👋 Let's build the future!")
-```
+### 🏆 Achievements
+- 🥉 **3rd Prize** - Competitive Programming (100+ participants)
+- 🛰️ **NASA Contributor** - Earth Data Scientists Initiative
+- 📈 **18% Performance Boost** - ML Model Optimization
+- 👨‍🏫 **Mentored 50+ Students** - Technical Workshops
+- 🚀 **National AI Hackathon** Participant
 
-### 💼 Open For
-
-✅ **ML Engineering Internships**  
-✅ **AI Development Roles**  
-✅ **Full-Stack Opportunities**  
-✅ **Open Source Collaborations**  
+### 🌐 Languages
+**Code:** Python • C++ • JavaScript • SQL  
+**Speak:** English • Hindi
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### 💼 Open to Opportunities: ML Engineering • AI Development • Software Engineering • Open Source
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
