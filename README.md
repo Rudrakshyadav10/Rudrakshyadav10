@@ -335,8 +335,8 @@ National AI Event
 
 ### 🎯 Key Accomplishments
 
-```diff
-@@                    Professional Highlights                    @@
+
+                 Professional Highlights                   
 + 📈 Improved machine learning model performance by 18%
 + 🌍 Collaborated with global team on NASA Earth data projects
 + 🏆 Won competitive programming contest among 100+ participants
