@@ -18,6 +18,7 @@
 <table>
 <tr>
 <td width="60%">
+
 ### Hi there! I'm Rudraksh Yadav 👋
 
 🎓 **B.Tech in Computer Science (AI & ML)**  
@@ -284,25 +285,6 @@ National AI Event
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-
-</div>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Contribution Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 Achievements & Recognition
 
 <div align="center">
@@ -334,8 +316,8 @@ National AI Event
 
 ### 🎯 Key Accomplishments
 
-
-                 Professional Highlights                   
+```diff
+@@                    Professional Highlights                    @@
 + 📈 Improved machine learning model performance by 18%
 + 🌍 Collaborated with global team on NASA Earth data projects
 + 🏆 Won competitive programming contest among 100+ participants
@@ -480,24 +462,28 @@ Advanced Topics:
 
 <div align="center">
 
-### 🏅 GitHub Trophies
+## 🚀 Let's Build Something Amazing Together!
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Open+to+New+Opportunities;Passionate+About+AI+%26+Innovation;Let's+Connect+and+Collaborate!" alt="Typing SVG" />
 
-</div>
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<div align="center">
+<br/>
 
 ### ⭐ Star My Repositories | 🍴 Fork & Contribute | 💬 Let's Collaborate!
+
+<br/>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
 
+<br/><br/>
+
 **Thanks for visiting! Have an amazing day! 😊✨**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
