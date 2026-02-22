@@ -40,7 +40,7 @@
 🔬 Deep Learning & Neural Networks  
 ☁️ Cloud Computing (AWS/GCP)  
 ⚙️ MLOps & Model Deployment  
-🏗️ System Design & Scalability  
+🏗️ System Design & Scalability
 
 </td>
 <td width="40%" valign="top">
@@ -315,16 +315,24 @@ National AI Event
 
 ### 🎯 Key Accomplishments
 
-```diff
-@@                    Professional Highlights                    @@
-+ 📈 Improved machine learning model performance by 18%
-+ 🌍 Collaborated with global team on NASA Earth data projects
-+ 🏆 Won competitive programming contest among 100+ participants
-+ 👨‍💻 Developed 3 production-ready AI applications with live demos
-+ 🎓 Led technical workshops and mentored 50+ aspiring developers
-+ 🚀 Participated in National AI Hackathon
-+ 💡 Active contributor to technical community and E-Cell activities
-```
+<table>
+<tr>
+<td width="50%">
+
+✅ **Improved ML model performance by 18%**  
+✅ **Collaborated with global team** on NASA Earth data projects  
+✅ **Won 3rd prize** in competitive programming (100+ participants)  
+
+</td>
+<td width="50%">
+
+✅ **Developed 3 production-ready AI applications** with live demos  
+✅ **Led technical workshops** and mentored 50+ aspiring developers  
+✅ **Active contributor** to technical community and E-Cell  
+
+</td>
+</tr>
+</table>
 
 </div>
 
