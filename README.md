@@ -460,15 +460,6 @@ Advanced Topics:
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-### 📊 Profile Views & Followers
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=F85D7F&logo=github" alt="GitHub Followers"/>
-
 ### 🏅 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
